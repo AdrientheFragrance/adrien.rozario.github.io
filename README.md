@@ -5,7 +5,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://adrienthefragrance.github.io/adrienrozario.github.io/" target="_blank"><img src="images/preview.jpg">
+   <img src="images/preview.jpg">
   </a>
   </kbd>
 </p>
