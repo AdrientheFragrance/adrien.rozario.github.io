@@ -1,11 +1,9 @@
 # Personal Portfolio 🌹
 
-> https://adrienthefragrance.github.io/adrienrozario.github.io/
-
 ### Website Preview
 <p align="center"> 
   <kbd>
-   <img src="images/preview.jpg">
+    <a href="" target="_blank"><img src="images/preview.jpg">
   </a>
   </kbd>
 </p>
